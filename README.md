@@ -1,6 +1,7 @@
 # meals_app
 
 A new Flutter project.
+This is my first app with flutter containing some navigation between screens. It is a sample application with a small data of food you can choose between them. It has a filtering action you can choose to apply over your meals to choose what ever you like the most.
 
 ## Getting Started
 
